@@ -17,11 +17,12 @@ Benefits
 
 ### Our website offers a number of benefits, including:
 
-Easy to use: Our website is easy to use, even if you are not a tech-savvy person.
-Up-to-date information: We use the latest data to provide you with the most up-to-date information.
-Reliable: We use reliable technologies to ensure that our website is always up and running.
-Secure: We use the latest security measures to protect your data.
-Conclusion
+* Easy to use: Our website is easy to use, even if you are not a tech-savvy person.
+* Up-to-date information: We use the latest data to provide you with the most up-to-date information.
+* Reliable: We use reliable technologies to ensure that our website is always up and running.
+* Secure: We use the latest security measures to protect your data.
+  
+## Conclusion
 
 If you are looking for a travel planner that is easy to use, up-to-date, reliable, and secure, then you need to check out Agarwal Travels! We are confident that you will love our website and that it will help you plan your next trip.
 
