@@ -5,6 +5,7 @@ const Settings = () => {
   return (
     <div className="mx-10 my-5">
       <h1 className=" text-3xl text-bold">Settings</h1>
+      <h2 className="text-2xl text-bold">Hi Om!</h2>
       <p className="text-gray-500 pb-5">Adjust your accounts.</p>
       <ul
         className=" nav nav-tabs flex flex-col md:flex-row flex-wrap list-none  pl-0 mb-4 "
