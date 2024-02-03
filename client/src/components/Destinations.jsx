@@ -6,6 +6,7 @@ import maldives1 from '../assets/images/maldives1.jpg';
 import maldives2 from '../assets/images/maldives2.jpg';
 import maldives3 from '../assets/images/maldives3.jpg';
 
+
 const Destinations = () => {
   return (
     <section className='container px-4 flex flex-col items-center my-16'>

@@ -10,7 +10,7 @@ import Footer from './Footer';
 
 const Home1 = () => {
   return (
-    <>
+    <div>
       <Navbar />
       <Hero />
       <Destinations />
@@ -18,7 +18,7 @@ const Home1 = () => {
       <Selections />
       <Carousel />
       <Footer />
-    </>
+    </div>
   );
 };
 

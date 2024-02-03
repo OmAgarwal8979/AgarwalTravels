@@ -47,12 +47,13 @@ const Search = () => {
               id='destination'
               className='block w-full p-2 border rounded'
             >
-              <option value='dog'>Bora Bora</option>
-              <option value='cat'>Cozumel</option>
-              <option value='hamster'>Maldives</option>
-              <option value='parrot'>Jamaica</option>
-              <option value='spider'>Key West</option>
-              <option value='goldfish'>Antigua</option>
+              <option value='dog'>New Delhi</option>
+              <option value='cat'>Maldives</option>
+              <option value='hamster'>Mumbai</option>
+              <option value='parrot'>New York</option>
+              <option value='spider'>France</option>
+              <option value='goldfish'>Bali</option>
+              <option value='rabbit'>Shimla</option>
             </select>
           </div>
           <div className='my-4'>
